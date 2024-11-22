@@ -1,0 +1,102 @@
+id,title,genre,type,rating
+1,The Shawshank Redemption,Drama|Crime,Movie,9.3
+2,The Godfather,Crime|Drama,Movie,9.2
+3,The Dark Knight,Action|Crime|Drama,Movie,9
+4,Schindler's List,Biography|History|Drama,Movie,8.9
+5,The Lord of the Rings: The Fellowship of the Ring,Fantasy|Adventure|Drama,Movie,8.8
+6,Pulp Fiction,Crime|Drama,Movie,8.9
+7,Forrest Gump,Drama|Romance,Movie,8.8
+8,The Matrix,Sci-Fi|Action,Movie,8.7
+9,Inception,Sci-Fi|Action|Thriller,Movie,8.8
+10,The Prestige,Drama|Mystery|Sci-Fi,Movie,8.5
+11,Cloud Atlas,Sci-Fi|Drama,Movie,8.2
+12,Interstellar,Sci-Fi|Adventure,Movie,8.6
+13,The Revenant,Adventure|Drama,Movie,8
+14,The Curious Case of Benjamin Button,Drama|Fantasy,Movie,8
+15,The Godfather Part II,Crime|Drama,Movie,9
+16,The Shining,Horror|Drama,Movie,8.4
+17,The Green Mile,Drama|Crime,Movie,8.6
+18,The Silence of the Lambs,Crime|Drama|Thriller,Movie,8.6
+19,Blade Runner,Sci-Fi|Thriller,Movie,8.1
+20,Fight Club,Drama|Thriller,Movie,8.8
+21,The Lord of the Rings: The Two Towers,Fantasy|Adventure,Movie,8.7
+22,The Dark Knight Rises,Action|Drama,Movie,8.4
+23,Avatar,Action|Adventure|Sci-Fi,Movie,8.3
+24,The Lion King,Animation|Drama|Family,Movie,8.5
+25,The Matrix Revolutions,Sci-Fi|Action,Movie,6.8
+26,The Empire Strikes Back,Sci-Fi|Adventure|Action,Movie,8.7
+27,Gladiator,Action|Drama,Movie,8.5
+28,The Prestige,Drama|Sci-Fi,Movie,8.5
+29,The Departed,Crime|Drama,Movie,8.5
+30,American History X,Drama,Movie,8.5
+31,The Great Gatsby,Drama|Romance,Movie,7.3
+32,The Hobbit,Fantasy|Adventure|Drama,Movie,7.8
+33,The Wolf of Wall Street,Comedy|Drama,Movie,8.2
+34,The Pianist,Drama|Biography,Movie,8.5
+35,Gladiator,Action|Drama,Movie,8.5
+36,Goodfellas,Crime|Drama,Movie,8.7
+37,Back to the Future,Adventure|Sci-Fi,Movie,8.5
+38,The Truman Show,Comedy|Drama,Movie,8.1
+39,The Terminator,Action|Sci-Fi,Movie,8
+40,Die Hard,Action|Thriller,Movie,8.2
+41,Jurassic Park,Adventure|Sci-Fi,Movie,8.1
+42,The Big Lebowski,Comedy|Crime,Movie,8.1
+43,The Shawshank Redemption,Drama|Crime,Movie,9.3
+44,The Godfather,Crime|Drama,Movie,9.2
+45,Schindler's List,Historical|Drama,Movie,8.9
+46,The Silence of the Lambs,Crime|Thriller,Movie,8.6
+47,The Lion King,Animation|Drama,Movie,8.5
+48,The Social Network,Drama|Biography,Movie,8
+49,The Hunt for Red October,Action|Drama|Thriller,Movie,8.1
+50,Star Wars: A New Hope,Sci-Fi|Adventure,Movie,8.6
+,,,,
+51,The Book Thief,Historical|Drama,Book,8.8
+52,The Nightingale,Historical|War|Drama,Book,8.7
+53,The Road,Dystopian|Drama,Book,8.3
+54,The Catcher in the Rye,Classic|Drama,Book,8.5
+55,1984,Dystopian|Sci-Fi,Book,9
+56,Brave New World,Dystopian|Sci-Fi,Book,8.6
+57,To Kill a Mockingbird,Classic|Drama,Book,8.9
+58,The Great Gatsby,Classic|Drama,Book,8.7
+59,Crime and Punishment,Philosophical|Psychological,Book,9
+60,War and Peace,Historical|Drama,Book,8.8
+61,All Quiet on the Western Front,War|Historical|Drama,Book,8.6
+62,Slaughterhouse-Five,War|Satire,Book,8.5
+63,Catch-22,War|Satire,Book,8.7
+64,The Martian,Sci-Fi|Adventure,Book,8.4
+65,The Hobbit,Fantasy|Adventure,Book,8.6
+66,Lord of the Flies,Classic|Drama,Book,8.5
+67,The Secret Garden,Classic|Adventure,Book,8.7
+68,Life of Pi,Adventure|Drama,Book,8.7
+69,Anne of Green Gables,Classic|Family,Book,8.3
+70,The Chronicles of Narnia,Fantasy|Adventure,Book,8.5
+71,The Hitchhiker's Guide to the Galaxy,Sci-Fi|Comedy,Book,8.2
+72,The Alchemist,Fantasy|Adventure,Book,8.4
+73,The Great Expectations,Classic|Drama,Book,8.6
+74,Frankenstein,Classic|Horror,Book,8.5
+75,The Picture of Dorian Gray,Classic|Drama,Book,8.4
+76,The Outsiders,Classic|Drama,Book,8.7
+77,The Road,Post-Apocalyptic|Adventure,Book,8.4
+78,Shining,Thriller|Horror,Book,8.1
+79,The Invisible Man,Science Fiction|Mystery,Book,8.4
+80,Pride and Prejudice,Romance|Classic,Book,8.9
+81,Jane Eyre,Romance|Classic,Book,8.6
+82,Dracula,Fantasy|Horror,Book,8
+83,The Bell Jar,Drama|Psychological,Book,8.2
+84,The Scarlet Letter,Classic|Drama,Book,8.1
+85,Moby Dick,Classic|Adventure,Book,8.5
+86,Brave New World,Dystopian|Sci-Fi,Book,8.7
+87,The Fault in Our Stars,Romance|Drama,Book,8.8
+88,The Hunger Games,Dystopian|Adventure,Book,8.7
+89,The Da Vinci Code,Thriller|Mystery,Book,8.1
+90,The Shining,Horror|Thriller,Book,8.6
+91,The Alchemist,Fantasy|Adventure,Book,8.4
+92,The Fault in Our Stars,Romance|Drama,Book,8.8
+93,The Hunger Games,Dystopian|Adventure,Book,8.7
+94,The Road,Post-Apocalyptic|Adventure,Book,8.4
+95,The Catcher in the Rye,Classic|Drama,Book,8.5
+96,The Great Gatsby,Classic|Drama,Book,8.7
+97,War and Peace,Historical|Drama,Book,8.8
+98,The Fault in Our Stars,Romance|Drama,Book,8.7
+99,Crime and Punishment,Philosophical|Psychological,Book,9
+100,The Secret Garden,Classic|Adventure,Book,8.7
